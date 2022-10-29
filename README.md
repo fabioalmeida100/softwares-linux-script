@@ -6,7 +6,7 @@ This script is for setup my development Linux PC. It use snap for install some p
 
 Open terminal and run this command:
 
-```sh app.sh```
+```sh insall_softwares.sh```
 
 All packages will be installed in your PC.
 
