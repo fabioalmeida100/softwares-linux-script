@@ -1,6 +1,7 @@
 #!/bin/sh
 echo "=> Instalando meus softwares..."
-sudo apt-get update
+sudo apt update
+sudo apt install snapd
 
 echo "- SDKs, Runtimes e Ferramentas para Desenvolvimento"
 sudo snap install openjdk
