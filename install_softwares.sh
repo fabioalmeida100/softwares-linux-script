@@ -22,6 +22,7 @@ echo "- Utilitários..."
 sudo snap install kolourpaint
 sudo snap install spotify
 sudo snap install vlc
+sudo snap install gromit-mpx
 
 echo "- Cliente http..."
 sudo snap install postman
