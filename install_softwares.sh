@@ -5,9 +5,7 @@ sudo apt install snapd
 
 echo "- SDKs, Runtimes e Ferramentas para Desenvolvimento"
 sudo snap install openjdk
-sudo snap install node --classic
 sudo snap install dotnet-sdk --classic
-sudo snap install docker
 sudo apt install git -y
 
 echo "- Editores e IDEs..."
