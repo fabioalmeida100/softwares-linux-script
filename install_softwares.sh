@@ -12,6 +12,7 @@ echo "- Editores e IDEs..."
 sudo snap install notepad-plus-plus
 sudo snap install intellij-idea-community --classic
 sudo snap install code --classic
+sudo snap install rider --classic
 
 echo "- Clientes para se conectar a banco de dados..."
 sudo snap install robo3t-snap
